@@ -8,7 +8,7 @@ These projects demonstrate my ability to design compelling visualizations, uncov
 
 ## 📁 Projects
 
-1. ** Data Science Job Insights: Industry Trends and Analysis**
+1. **Data Science Job Insights: Industry Trends and Analysis**
 
 An in-depth analysis of global data science job market trends, examining salary distributions, job categories, and geographical patterns across the industry. This dashboard explores key questions like which countries offer the best opportunities, how salaries have evolved over time, and which job categories command the highest compensation.
 Key Insights:
@@ -21,7 +21,7 @@ Key Insights:
 Dataset: Global data science job postings covering work years, salary data, experience levels, and employment types across multiple countries.
 View the Full Report & Dashboard → 
 
-2. ** World Indicators Exploratory Data Analysis **
+2. **World Indicators Exploratory Data Analysis**
    
 A comprehensive exploration of global development indicators across three key dimensions: business environment, healthcare systems, and economic development. This multi-dashboard project analyzes patterns in tax systems, lending rates, healthcare expenditures, CO2 emissions, and tourism across continents and countries.
 Key Insights:
@@ -33,12 +33,12 @@ Key Insights:
 Dataset: World Bank development indicators covering business metrics, health statistics, and economic development data from 2000-2012.
 View the Interactive Dashboards →
 
-🛠️ Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
-Data Storytelling: Crafting narratives from complex datasets that answer specific business questions
-Multi-Dashboard Design: Building cohesive dashboard suites that explore topics from multiple angles
-Comparative Analysis: Analyzing trends across time periods, geographies, and categories
-Interactive Visualizations: Creating dynamic charts with filters and parameters for user exploration
-Statistical Insight: Identifying patterns, correlations, and outliers in large datasets
-Data Quality & Sanity Checks: Performing rigorous data validation using Python/Jupyter before visualization
+- **Data Storytelling:** Crafting narratives from complex datasets that answer specific business questions
+- **Multi-Dashboard Design:** Building cohesive dashboard suites that explore topics from multiple angles
+- **Comparative Analysis:** Analyzing trends across time periods, geographies, and categories
+- **Interactive Visualizations:** Creating dynamic charts with filters and parameters for user exploration
+- **Statistical Insight:** Identifying patterns, correlations, and outliers in large datasets
+- **Data Quality & Sanity Checks:** Performing rigorous data validation using Python/Jupyter before visualization
 
