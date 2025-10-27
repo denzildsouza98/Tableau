@@ -8,7 +8,7 @@ These projects demonstrate my ability to design compelling visualizations, uncov
 
 ## 📁 Projects
 
-1. Data Science Job Insights: Industry Trends and Analysis
+1. ** Data Science Job Insights: Industry Trends and Analysis**
 
 An in-depth analysis of global data science job market trends, examining salary distributions, job categories, and geographical patterns across the industry. This dashboard explores key questions like which countries offer the best opportunities, how salaries have evolved over time, and which job categories command the highest compensation.
 Key Insights:
@@ -21,7 +21,8 @@ Key Insights:
 Dataset: Global data science job postings covering work years, salary data, experience levels, and employment types across multiple countries.
 View the Full Report & Dashboard → 
 
-2. World Indicators Exploratory Data Analysis
+2. ** World Indicators Exploratory Data Analysis **
+   
 A comprehensive exploration of global development indicators across three key dimensions: business environment, healthcare systems, and economic development. This multi-dashboard project analyzes patterns in tax systems, lending rates, healthcare expenditures, CO2 emissions, and tourism across continents and countries.
 Key Insights:
 
